@@ -1,1 +1,1 @@
-云原生数仓： https://www.databend.cn
+云原生数仓： https:/github.com/datafuselabs/databend
